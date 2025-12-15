@@ -1,2 +1,2 @@
 # Game-Engineering-Notes
-Notes and refloections on game engineering, and lessons learned from development experience.
+This repository contains my notes and reflections on game engineering and lessons learned through game development experience.
