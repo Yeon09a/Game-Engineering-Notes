@@ -15,7 +15,7 @@ To start with, I studied Unity's Quality Settings and URP Asset options, trying 
 
 
 Based on what I've learned, I created four quality levels, and modified the options for each level as follows:
-1. Quality Settings : key options related Graphics quality, such as Rendering, Texture, Particle, LOD, Mesh, and Async Asset Upload.
+1. Quality Settings : key options related to Graphics quality, such as Rendering, Texture, Particle, LOD, Mesh, and Async Asset Upload.
 2. URP Asset : Graphics quality options related to Rendering, Lighting, Shadows, and Post-processing.
 
 
@@ -37,7 +37,7 @@ Through this test, I observed clear performance differences across the quality l
 The purpose of these tests was not to analyse the performance of each individual option, but to confirm that the settings for each quality level resulted in actual performance differences and that each level was distinct as intended.
 
 
-At the moment, the project is not yet complete, so it doesnt't have all the graphic assets we need. As a result, the differences between quality levels in this test are relatively small.
+At the moment, the project is not yet complete, so it doesn't have all the graphic assets we need. As a result, the differences between quality levels in this test are relatively small.
 Once the game is more complete, I expect the performance differences between quality levels to be clearer.
 
 
